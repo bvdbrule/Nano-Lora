@@ -7,14 +7,14 @@ PCB: Arduino Nano with Lora RFM95w.
 
 PCB is designed to use an Arduino Nano with an RFM95W Lorawan device.
 
-<H1>BOM</H1>
+<H2>BOM</H2>
 <UL>
-<LI>1x RFM95
- https://s.click.aliexpress.com/e/PBDM0cXJl 
-</UL>  
-PCB can be fabricated by <a href="https://aisler.net/p/FGSSKBLQ">Aisler</a> 
-
-Note: Solder the spiral/coil/wire antenna directly on the RFM95W ANT pin.
+<LI>1x <a href="https://s.click.aliexpress.com/e/oj4uVwhix">Arduino Nano</a>
+<LI>1x <a href="https://s.click.aliexpress.com/e/PBDM0cXJl">RFM95 Lora device</a>
+<LI>1x <a href="https://s.click.aliexpress.com/e/WBSL7YfS3">74HC4050D voltage leveler SOP16</a>  
+<LI>1x <a href="https://s.click.aliexpress.com/e/2y16o2jgR">SMA female jack antenna</a>
+<LI>1x <a href="https://aisler.net/p/FGSSKBLQ">PCB fabricated by Aisler</a>  
+</UL>
 
 
 
