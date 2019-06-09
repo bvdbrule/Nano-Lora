@@ -9,6 +9,8 @@ PCB is designed to use an Arduino Nano with an RFM95W Lorawan device.
 
 PCB can be fabricated by <a href="https://aisler.net/p/FGSSKBLQ">Aisler</a> 
 
+Note: Solder the spiral/coil/wire antenna directly on the RFM95W ANT pin.
+
 
 
 
