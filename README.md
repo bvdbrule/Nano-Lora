@@ -18,12 +18,12 @@ PCB is designed to use an Arduino Nano with an RFM95W Lorawan device.
 
 
 <H2>LMIC Pin Mapping</H2>
-const lmic_pinmap lmic_pins = {
-.nss = 10,
-.rxtx = LMIC_UNUSED_PIN,
-.rst = LMIC_UNUSED_PIN,
-.dio = {7, 8, 9},
-};
+const lmic_pinmap lmic_pins = {<br>
+.nss = 10,{<br>
+.rxtx = LMIC_UNUSED_PIN,{<br>
+.rst = LMIC_UNUSED_PIN,{<br>
+.dio = {7, 8, 9},{<br>
+};{<br>
 
 
 
