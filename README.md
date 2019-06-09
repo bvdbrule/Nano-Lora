@@ -1,4 +1,4 @@
-# Nano-Lora
+# PCB: Nano-Lora
 Arduino Nano with Lora RFM95w and PIR sensor AM312 
 
 <picture>
